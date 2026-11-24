@@ -1,0 +1,24 @@
+MAYU PUSH SUSHI — CÓDIGO-FONTE DA PRODUÇÃO 6.9
+
+Os arquivos abaixo são os arquivos publicados no deployment de produção consultado em 23/11/2026.
+Eles são links diretos para o conteúdo-fonte, não cópias locais incluídas neste pacote.
+
+1) Aplicação principal (HTML + CSS + JavaScript):
+https://mayu-push-sushi.vercel.app/index.html
+
+2) Patch principal (versões 6.6, 6.7 e 6.8):
+https://mayu-push-sushi.vercel.app/mayu-patch.js?v=6.8
+
+3) Patch da versão 6.9 (catálogo Delivery):
+https://mayu-push-sushi.vercel.app/mayu-patch-69.js?v=6.9
+
+4) Service Worker / PWA:
+https://mayu-push-sushi.vercel.app/sw.js
+
+5) Manifest PWA:
+https://mayu-push-sushi.vercel.app/manifest.webmanifest
+
+6) Edge Function administrativa (Supabase):
+https://supabase.com/dashboard/project/vryocmtrksrmhpvulrcm/functions/mayu-admin
+
+Observação: o ZIP reúne todos os documentos técnicos, schema, catálogo resumido e referências de código gerados para a transferência. Os arquivos de código de produção são referenciados por seus URLs oficiais; não foram copiados fisicamente para este ZIP.

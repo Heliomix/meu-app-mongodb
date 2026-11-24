@@ -1,0 +1,21 @@
+{
+  "appId": "com.mayudelvery.app",
+  "appName": "Mayu Delivery",
+  "webDir": "dist",
+  "server": {
+    "cleartext": true
+  },
+  "android": {
+    "buildOptions": {
+      "keystorePath": "",
+      "keystorePassword": "",
+      "keystoreAlias": ""
+    }
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#fbbf24"
+    }
+  }
+}
