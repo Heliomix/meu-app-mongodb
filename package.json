@@ -1,0 +1,15 @@
+{
+  "name": "claude-projetos",
+  "version": "1.0.0",
+  "description": "Projeto com conexão ao MongoDB Atlas",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongodb": "^6.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
